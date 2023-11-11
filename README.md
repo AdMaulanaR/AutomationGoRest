@@ -21,3 +21,5 @@ TP-09 Menghapus Data
 TP-10 Validasi Data Yang Sudah di Hapus
 
 [PR6MODUL7.xlsx](https://github.com/AdMaulanaR/AutomationGoRest/files/13062954/PR6MODUL7.xlsx)
+
+![image](https://github.com/AdMaulanaR/AutomationGoRest/assets/142900841/00db8bde-b152-4397-a5fd-af8365ef1bef)
